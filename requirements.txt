@@ -1,6 +1,4 @@
 streamlit==0.57.3
-re
-json
 numpy==1.16.5
 pandas==0.25.0
 joblib==0.13.2
