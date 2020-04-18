@@ -1,1 +1,1 @@
-# aurubis-buffalo-yield-prediction
+Web App: http://credit-risk.herokuapp.com/
