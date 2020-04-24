@@ -1,1 +1,1 @@
-Web App: http://credit-risk.herokuapp.com/
+Web App: https://aurubis-buffalo-yield.herokuapp.com/
